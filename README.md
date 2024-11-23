@@ -1,6 +1,6 @@
 # 🚀 Complete Cloud Computing Learning Guide
 
-![Cloud Computing GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J5cHA4MjMxbzMzMnFqNWRyMnJicGFvemxkdmc1anhidng3ZzJyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EWTKvtBOCFNq7Y1Jnb/giphy.gif)  
+  ![Cloud Computing GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J5cHA4MjMxbzMzMnFqNWRyMnJicGFvemxkdmc1anhidng3ZzJyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EWTKvtBOCFNq7Y1Jnb/giphy.gif)  
 
 
 
